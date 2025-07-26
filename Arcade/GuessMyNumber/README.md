@@ -4,7 +4,7 @@ A fun and interactive browser-based number guessing game built with **HTML**, **
 
 ## 🚀 Live Demo
 
-👉 [Play Now](https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/)
+👉 [Play Now](https://joashpaul.github.io/JS-Dojo/Arcade/GuessMyNumber/)
 
 ## 🕹️ How to Play
 
